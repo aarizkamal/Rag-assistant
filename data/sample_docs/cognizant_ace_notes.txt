@@ -1,0 +1,25 @@
+Cognizant Ace Team Program - Reference Notes
+
+The Cognizant Ace Team is a premier engineering program for high-potential AI
+engineers. Selected candidates join as Ace Frontier Engineers and work within
+lean, high-impact "Frontier pods" that build AI-native solutions end-to-end
+across software, data, infrastructure, quality, and operations.
+
+Core responsibilities include designing multi-agent AI systems, building RAG
+pipelines and knowledge platforms, deploying production-grade LLM
+applications, and validating AI-generated outputs with guardrails for
+reliable AI operations.
+
+The hiring process consists of four stages: registration, an online aptitude
+and communication assessment, an online technical assessment, and an
+in-person technical interview at either the Associate or Senior Associate
+level. Candidates who clear all stages receive a Letter of Intent.
+
+Key technical skills expected include Python, Java or .NET, JavaScript or
+TypeScript, React or Angular, REST APIs, and SQL, along with AI-specific
+skills such as LangChain, LangGraph, CrewAI, AutoGen, prompt engineering,
+and enterprise search.
+
+Growth in the program follows a track from Frontier Engineer to Master
+Frontier Engineer, to Distinguished Frontier Engineer, and finally to
+Frontier Principal.
